@@ -1,0 +1,56 @@
+body{
+    padding: 0px;
+    margin: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.denuncia{
+    border-radius: 5px;
+    background-color: #c80000;
+    color: #ffffff;
+}
+.acompanha{
+    border-radius: 5px;
+    background-color: #003ec8;
+    color: white;
+}
+.banner{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #23232e;
+
+}
+.b1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #23232e;
+}
+a{
+    text-decoration: none;
+}
+h2{
+    color:#217B96
+}
+.banner1{
+    width: 20%;
+}
+.principal{
+    padding-top: 40px;
+    width: 1920px;
+    height: 600px;
+}
+p{
+    font-size: 20px;
+    padding-left: 100px;
+    padding-right: 100px;
+}
+h4{
+    font-size: 20px;
+    padding-left: 100px;
+    padding-right: 100px;
+    
+}
+.saiba{
+    display: inline;
+}
